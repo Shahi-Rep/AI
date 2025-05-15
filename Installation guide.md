@@ -14,8 +14,11 @@ Then, in the black screen (CMD), type the following and press Enter:
 ollama run gemma3:1b
 
 Step 5: Download Monis.zip file included in this repository and extract the zip file.
-Step 6: After extraction, locate the file named Monis.py in the folder
+
+Step 6: After extraction, locate the file named Monis.py in the folder.
+
 Step 7: Right-click on it, choose "Open with", and run it using Python.
+
 Step 8: Select a model from the interface and start chatting.
 
 Note:
