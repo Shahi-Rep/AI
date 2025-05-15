@@ -1,4 +1,4 @@
-How to Install and Run the Local AI (Offline)
+How to Install and Run the Local Monis AI Interface (Offline)
 Important: Please follow each step in the correct order. Do not install anything from a later step before completing the previous one.
 
 Step 1: Download and install Python 3.11.0
