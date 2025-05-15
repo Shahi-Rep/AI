@@ -2,11 +2,12 @@ How to Install and Run the Local AI (Offline)
 Important: Please follow each step in the correct order. Do not install anything from a later step before completing the previous one.
 
 Step 1: Install Python
-Download and install Python 3.11.0. https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+Download and install Python 3.11.0. 
+👉 https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
 
 Step 2: Install Ollama
 Download and install Ollama (approximately 1GB) from the official website:
-👉 https://ollama.com/download
+👉 https://ollama.com/download/OllamaSetup.exe
 
 Step 3: Install Required Libraries
 Download and Run the "Library Setup" file included in this repository. This will install all the required Python libraries automatically.
